@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/SidJanawade/SidJanawade/assets/126084714/36c4c5b1-16cd-4a5e-aab8-933b591deaf9)
+![github-header-image] ![Siddhanth github](https://github.com/SidJanawade/SidJanawade/assets/126084714/e14db2e6-6cd8-4e59-a231-ed4486c5e689)
 
 
 <h1 align="center">Hi 👋, I'm Siddhanth Janawade</h1>
