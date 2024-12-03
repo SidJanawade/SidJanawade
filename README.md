@@ -1,26 +1,29 @@
 
 <h9 align="center">![Siddhanth github](https://github.com/SidJanawade/SidJanawade/assets/126084714/e14db2e6-6cd8-4e59-a231-ed4486c5e689)</h9>
 
+## 💫 About Me:
+Hi 👋, I'm Siddhanth Janawade<br>
+✨ Creating bugs since 2022<br>📚 I'm currently learning HTML  and CSS <br>🎯 Goals: live in a cold place ❄ and rest easy<br>🎲 And I like to sing  and play games
 
-<h1 align="center">Hi 👋, I'm Siddhanth Janawade</h1>
-<h3 align="center">A passionate software engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidjanawade&label=Profile%20views&color=0e75b6&style=flat" alt="sidjanawade" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhanthjanawade) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/janawadesid)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidjanawade" alt="sidjanawade" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SidJanawade&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SidJanawade&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SidJanawade&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **janawadesid@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SidJanawade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lil_uzi_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lil_uzi_sid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhanth janawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhanth janawade" height="30" width="40" /></a>
-<a href="https://instagram.com/siddhanthjanawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhanthjanawade" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SidJanawade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidjanawade&show_icons=true&locale=en&layout=compact" alt="sidjanawade" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidjanawade&show_icons=true&locale=en" alt="sidjanawade" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=SidJanawade&icon=0&color=3)](https://visitcount.itsvg.in)
