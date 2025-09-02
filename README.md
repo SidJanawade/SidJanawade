@@ -9,8 +9,8 @@
 <div align="left">
 ✨ Creating bugs since 2022 <br>      
 💻 Computer Science Engineer | AI Enthusiast | Problem Solver <br>
-🎯 Goal → Live in a cold place, build impactful AI solutions & enjoy life peacefully <br>
-🎲 Outside code → I sing, swim, sketch, and occasionally game 🎮 <br>
+🎯 Goal : Travel the world, build impactful AI solutions & enjoy life peacefully <br>
+🎲 Outside code : I sing, swim, sketch, and occasionally game 🎮 <br>
 📚 Currently exploring Generative AI, LangChain, Web Scraping, and Full-Stack Development   <br>
 🌱 Learning: Responsible AI, RAG Patterns, Advanced LangChain Agents, and Cloud Deployments   <br>
 </div>
