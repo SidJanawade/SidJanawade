@@ -1,12 +1,20 @@
-# I'm Siddhanth  
-✨ Creating bugs since 2022 <br>  
-💻 **Computer Science Engineer | AI Enthusiast | Problem Solver** <br>  
-📚 Currently exploring **Generative AI, LangChain, Web Scraping, and Full-Stack Development** <br>  
-🌱 Learning: Responsible AI, RAG Patterns, Advanced LangChain Agents, and Cloud Deployments <br>  
-🎯 Goal → Live in a cold place, build impactful AI solutions & enjoy life peacefully <br>  
-🎲 Outside code → I sing, swim, sketch, and occasionally game 🎮 <br>  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SidJanawade.SidJanawade" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&pause=1000&color=F7B2C2&center=true&vCenter=true&width=435&lines=Hi+There!!+;I'm+Siddhanth" alt="Typing SVG" />
 
----
+<h3 align="center">A passionate software developer from India IN</h3>
+
+</h1 align="center">
+</br>
+<div align="left">
+✨ Creating bugs since 2022 <br>      
+💻 Computer Science Engineer | AI Enthusiast | Problem Solver <br>
+🎯 Goal → Live in a cold place, build impactful AI solutions & enjoy life peacefully <br>
+🎲 Outside code → I sing, swim, sketch, and occasionally game 🎮 <br>
+📚 Currently exploring Generative AI, LangChain, Web Scraping, and Full-Stack Development   <br>
+🌱 Learning: Responsible AI, RAG Patterns, Advanced LangChain Agents, and Cloud Deployments   <br>
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@siddhanthjanawade) 
