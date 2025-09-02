@@ -1,15 +1,17 @@
 # 💫 About Me:
 Hi 👋, I'm **Siddhanth Janawade** <br>  
 ✨ Creating bugs since 2022 <br>  
-📚 Currently learning & working with **Python, AI/ML, LangChain, Web Scraping, and Full-Stack Development** <br>  
-🎯 Goal → To live in a cold place, build impactful AI solutions & enjoy life peacefully <br>  
+💻 **Computer Science Engineer | AI Enthusiast | Problem Solver** <br>  
+📚 Currently exploring **Generative AI, LangChain, Web Scraping, and Full-Stack Development** <br>  
+🌱 Learning: Responsible AI, RAG Patterns, Advanced LangChain Agents, and Cloud Deployments <br>  
+🎯 Goal → Live in a cold place, build impactful AI solutions & enjoy life peacefully <br>  
 🎲 Outside code → I sing, swim, sketch, and occasionally game 🎮 <br>  
 
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@siddhanthjanawade) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SiddhanthJanawade) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/siddhanth-janawade-972514263) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/janawadesid) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janawadesid@gmail.com)  
 
@@ -31,6 +33,13 @@ Hi 👋, I'm **Siddhanth Janawade** <br>
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
+
+---
+
+# 📂 Highlighted Projects:
+- 🧠 *Personalized AI Assistant* – LangChain + Gemini + Context Memory  
+- 📊 *AI-driven Resume Parser* – Structured data extraction from resumes  
+- 🌐 *QuoteScraperApp* – Mock frontend + backend for web scraping  
 
 ---
 
