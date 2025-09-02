@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm **Siddhanth Janawade** <br>  
+# I'm **Siddhanth Janawade** <br>  
 ✨ Creating bugs since 2022 <br>  
 💻 **Computer Science Engineer | AI Enthusiast | Problem Solver** <br>  
 📚 Currently exploring **Generative AI, LangChain, Web Scraping, and Full-Stack Development** <br>  
