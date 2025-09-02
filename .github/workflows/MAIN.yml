@@ -24,12 +24,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#0D1117,#161B22,#21262D,#30363D,#58A6FF
 
-      # Debugging info
-      - run: git status
-
-      # Push the changes (use main instead of master if your repo is on main)
+      # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
