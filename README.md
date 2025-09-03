@@ -64,7 +64,7 @@
   
 -  *AI-driven Resume Parser* – Structured data extraction from resumes
     
--  *QuoteScraperApp* – Mock frontend + backend for web scraping  
+-  *QuoteScraperApp* – https://github.com/SidJanawade/Scrapper-Quotes-from-Web-using-BeautifulSoup
 
 
 ## 📊 GitHub Stats:
