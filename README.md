@@ -62,7 +62,7 @@
 ## 📂 Highlighted Projects:
 -  *Personalized AI Assistant* – LangChain + Gemini + Context Memory
   
--  *AI-driven Resume Parser* – Structured data extraction from resumes
+-  *AI-driven Prompt Engineering* – https://github.com/SidJanawade/Prompt-Engineering-for-data-cleaning-tasks
 
 -  *Customer Segmentation* - https://github.com/SidJanawade/Customer-Segmentation-using-K-Means-Clustering
     
