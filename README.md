@@ -60,13 +60,13 @@
 
 
 ## 📂 Highlighted Projects:
--  *Personalized AI Assistant* – LangChain + Gemini + Context Memory
+-  *Personalized AI Assistant* – https://github.com/SidJanawade/Personalized-AI-Assistant-using-LangChain-Agents
   
 -  *AI-driven Prompt Engineering* – https://github.com/SidJanawade/Prompt-Engineering-for-data-cleaning-tasks
 
 -  *Customer Segmentation* - https://github.com/SidJanawade/Customer-Segmentation-using-K-Means-Clustering
     
--  *QuoteScraperApp* – https://github.com/SidJanawade/Scrapper-Quotes-from-Web-using-BeautifulSoup
+-  *Quote Scraper App* – https://github.com/SidJanawade/Scrapper-Quotes-from-Web-using-BeautifulSoup
 
 
 ## 📊 GitHub Stats:
