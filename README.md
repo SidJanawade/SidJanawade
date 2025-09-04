@@ -63,6 +63,8 @@
 -  *Personalized AI Assistant* – LangChain + Gemini + Context Memory
   
 -  *AI-driven Resume Parser* – Structured data extraction from resumes
+
+-  *Customer Segmentation* - https://github.com/SidJanawade/Customer-Segmentation-using-K-Means-Clustering
     
 -  *QuoteScraperApp* – https://github.com/SidJanawade/Scrapper-Quotes-from-Web-using-BeautifulSoup
 
