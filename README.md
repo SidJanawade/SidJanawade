@@ -60,6 +60,8 @@
 
 
 ## 📂 Highlighted Projects:
+- *Customer Support Ticket Analyzer Bot* - https://github.com/SidJanawade/Customer-Support-Ticket-Analyzer-Bot
+
 -  *Personalized AI Assistant* – https://github.com/SidJanawade/Personalized-AI-Assistant-using-LangChain-Agents
   
 -  *AI-driven Prompt Engineering* – https://github.com/SidJanawade/Prompt-Engineering-for-data-cleaning-tasks
