@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SidJanawade.SidJanawade" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&pause=1000&color=7EE787&center=true&vCenter=true&width=435&lines=Hi+There!!+;I'm+Siddhanth" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&pause=1000&color=7EE787&center=true&vCenter=true&width=435&lines=Hey+There!!+;I'm+Siddhanth" alt="Typing SVG" />
 
 
 <h3 align="center">A passionate software developer from India IN</h3>
