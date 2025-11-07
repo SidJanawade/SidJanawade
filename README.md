@@ -39,7 +39,7 @@
 💻 Computer Science Engineer | AI Enthusiast | Problem Solver <br> 
 🎯 Goal : Travel the world, build impactful AI solutions & enjoy life peacefully <br> 
 🎲 Outside code : I sing, swim, sketch, and occasionally game 🎮 <br> 
-📚 Currently exploring Generative AI, LangChain, Web Scraping, and Full-Stack Development <br> 
+📚 Currently exploring Generative AI, LangChain, Web Scraping, AI Automation <br> 
 🌱 Learning: Responsible AI, RAG Patterns, Advanced LangChain Agents, and Cloud Deployments <br> 
 
 </div>
