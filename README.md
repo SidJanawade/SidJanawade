@@ -52,6 +52,8 @@
 ## 📂 Highlighted Projects:
 - *DocPilot* - https://github.com/SidJanawade/DocPilot
 
+- -  *Control Gaurd* - https://github.com/SidJanawade/controlsguard
+
 - *Lock-Free-SPSC-Queue* - https://github.com/SidJanawade/Lock-Free-SPSC-Queue
 
 - *Customer Support Ticket Analyzer Bot* - https://github.com/SidJanawade/Customer-Support-Ticket-Analyzer-Bot
@@ -63,6 +65,7 @@
 -  *Customer Segmentation* - https://github.com/SidJanawade/Customer-Segmentation-using-K-Means-Clustering
     
 -  *Quote Scraper App* – https://github.com/SidJanawade/Scrapper-Quotes-from-Web-using-BeautifulSoup
+
 
 
 ## 📊 GitHub Stats:
