@@ -52,7 +52,7 @@
 ## 📂 Highlighted Projects:
 - *DocPilot* - https://github.com/SidJanawade/DocPilot
 
-- -  *Control Gaurd* - https://github.com/SidJanawade/controlsguard
+- *Control Gaurd* - https://github.com/SidJanawade/controlsguard
 
 - *Lock-Free-SPSC-Queue* - https://github.com/SidJanawade/Lock-Free-SPSC-Queue
 
